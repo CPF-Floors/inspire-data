@@ -1,0 +1,20 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: montserrat;
+}
+body{
+  background-color: #00545d;
+  color: white;
+  button{
+    background-color: #dadada;
+    border: none;
+    padding: 15px 40px;
+    border-radius: 8px;
+    margin: 20px 0;
+    cursor: pointer;
+    font-weight: 700;
+  }
+
+}
