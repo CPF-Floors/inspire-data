@@ -1,6 +1,9 @@
 import React from "react";
 import "./App.css"
 
+// IMPORTAR COMPONENTES SEND TO & CLICK DETAILS (FALTA UNA QUE ERA LA DE LOS MAILS)
+// INSTALA AXIOS Y LA LIBRERÍA DE EXCEL
+
 
 function App() {
 
